@@ -1,6 +1,8 @@
-# EE267_Stable_Diffusion
+# Enhanced Latent Diffusion Model for Diverse, High-Quality Image Generation 
 
 Go to https://huggingface.co/spaces/darshanjani/EE267_Stable_Diffusion to try the project.
+
+## Presentation Deck
 
 ![Slide 1](https://github.com/darshanvjani/EE267_Stable_Diffusion/blob/main/Output_Images/Slide1.PNG?raw=true)
 ![Slide 2](https://github.com/darshanvjani/EE267_Stable_Diffusion/blob/main/Output_Images/Slide2.PNG?raw=true)
